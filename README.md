@@ -7,3 +7,5 @@ the UEFA Champions league less than a year ago.
 After a few bad results, the sack came unaware!
 
 I decided to check the reaction of people of twitter. You can check the result of my sentiment analysis in my notebooks.
+
+You can check [Dashboard](https://public.tableau.com/app/profile/oladayo.timileyin/viz/Tuchelsackingsentimentanalysis/ThomasTuchelSackingSentimentAnalysis) too.
